@@ -1,6 +1,6 @@
 /* program to find and print area of circle*/
 #include<stdio.h>
-#define pi 3.141---
+#define pi 3.141+++
 void main(){
 	float r,area;
 	printf("Enter the radius\n");
