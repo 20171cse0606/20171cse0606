@@ -7,5 +7,6 @@ void main(){
 	printf("Enter the radius\n");
 	scanf("%f", &r);
 	area=pi*r*r;
+sss
 	printf("Area(%f)=%f\n",r,area);
 }
