@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Html</title>
+</head>
+<body>
+<p>Document content goes here...</p>
+<iframe src="/home/cse9/Documents/1558706437-8205.jpg" 
+name="iframe_a">
+
+</iframe>
+<p>Document content</p>
